@@ -28,3 +28,6 @@ The best advice I can give is simple — say hello first. Most people are
 waiting for someone else to start the conversation. Join clubs, sit next to 
 someone new, suggest a coffee after class. Real friendships grow from small, 
 genuine moments.
+<p align="center">
+  <img src="/assets/img/image-3.jpg" alt="title" width="900"/>
+</p>
