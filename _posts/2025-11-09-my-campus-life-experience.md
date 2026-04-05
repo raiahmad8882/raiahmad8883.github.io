@@ -13,6 +13,9 @@ The campus is more than a place to attend classes. It is a world unto itself
 ### The Library
 My sanctuary for deep focus and long study sessions. I love the peaceful 
 atmosphere and the vast collection of books available to explore.
+<p align="center">
+  <img src="/assets/img/first-day-1.jpg" alt="title" width="900"/>
+</p>
 
 ### The Cafeteria
 Where friendships are built over chai and snacks. The social hub of campus 
