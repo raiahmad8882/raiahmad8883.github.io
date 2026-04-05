@@ -8,28 +8,52 @@ tags: [subjects, learning, passion]
 ##University opened my eyes to subjects I never knew I would love. Some courses 
 challenged me greatly, while others felt like a natural calling.
 
-## My Favourite Subjects
+# Why I Like Programming Fundamentals
 
-### Computer Science
-Problem solving through code excites me like nothing else. Building something 
-from nothing is pure magic. Every bug fixed feels like a small victory.
+![Programming Fundamentals](images/programming1.jpg)
 
-### World History
-Understanding how the world became what it is today gives me perspective on 
-everything around me. History is not just the past — it is the key to 
-understanding the present.
-![image alt](https://github.com/raiahmad8882/raiahmad8882.github.io/blob/310afb7383a79f12f16fca3cfb41d39f0fb487e8/img/annual.jpeg)
+Programming Fundamentals is one of the most interesting and useful subjects for me. It helps me understand how computers work and how software is created. I enjoy learning this subject because it improves my thinking, creativity, and technical skills.
 
-### Biology
-The complexity of living systems is endlessly fascinating. Life itself is the 
-most incredible phenomenon in the universe.
+---
 
-### Creative Writing
-Expressing ideas and emotions through words is both an art and a skill I am 
-passionate about developing every single day.
+## 1. It Improves My Logical and Problem-Solving Skills
 
-## Why Passion Matters in Studies
+Programming Fundamentals helps me think in a logical and organized way. When I write a program, I first understand the problem and then divide it into smaller steps. This helps me solve problems more easily and systematically.
 
-The subjects you love are not random — they are clues pointing you toward 
-your true purpose in life. When you study something you genuinely love, it 
-never feels like work. It feels like growth, discovery, and joy.
+Concepts such as **conditions**, **loops**, and **algorithms** improve my ability to think critically and make better decisions. Because of this, Programming Fundamentals not only helps me in coding but also improves my thinking skills in daily life and in other subjects.
+
+---
+
+## 2. It Gives Me the Ability to Create Useful Things
+
+One of the main reasons I like Programming Fundamentals is that it allows me to create programs and useful applications by myself. Even with basic concepts, I can build small projects such as:
+
+- Calculator programs  
+- Grading systems  
+- Login systems  
+- Simple games  
+
+This makes learning enjoyable because I can see my ideas become real output on the computer screen. It gives me confidence and encourages me to learn more. I enjoy the fact that I am not only using technology, but also learning how to create it.
+
+---
+
+![Coding and Programming](images/programming2.jpg)
+
+## 3. It Is the Foundation for My Future Career in Technology
+
+Programming Fundamentals is the first and most important step toward becoming successful in the field of computer science and engineering. It teaches the basic concepts that are used in advanced subjects such as:
+
+- Object-Oriented Programming  
+- Data Structures  
+- Web Development  
+- Artificial Intelligence  
+- Software Engineering  
+
+By learning Programming Fundamentals well, I can build a strong base for my future studies and career. I like this subject because I know it will help me grow academically and professionally in the technology field.
+
+---
+
+## Conclusion
+
+I like Programming Fundamentals because it improves my logical thinking, helps me create useful programs, and prepares me for my future in technology.
+
