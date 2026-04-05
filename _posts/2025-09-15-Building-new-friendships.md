@@ -14,7 +14,7 @@ felt the same way.
 My first real conversation with a future friend happened in the library. We 
 were both looking for the same book and ended up laughing about it. That 
 small moment turned into hours of conversation and a friendship I treasure.
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
 ## Types of Friends You Meet
 
 - **The Motivator** — Always lifts your spirits when you feel down
