@@ -22,6 +22,8 @@ thrilling experiences of my life.
 ### Inter University Quiz Competition
 Our team competed against students from 8 universities. We reached the semi 
 finals — a proud achievement that boosted our confidence enormously.
+![Programming Fundamentals](images/programming1.jpg)
+![Coding and Programming](images/programming2.jpg)
 
 ### Campus Tree Plantation Drive
 Students and faculty planted over 200 trees across campus. A day of community, 
